@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<launch>
+    
+    
+
+    <node  name="guardar_imagenes" pkg="guardar_imagenes" type="guardar_imagenes"/>
+
+
+</launch>

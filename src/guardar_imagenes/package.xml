@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <name>guardar_imagenes</name>
+  <version>0.0.0</version>
+  <description>Paquete para obtener imagenes del turtlebot</description>
+  <maintainer email="pablo@todo.todo">pablo</maintainer>
+  <license>TODO</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export>
+  </export>
+</package>
